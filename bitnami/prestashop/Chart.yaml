@@ -2,7 +2,7 @@ annotations:
   category: E-Commerce
   licenses: Apache-2.0
 apiVersion: v2
-appVersion: 8.0.2
+appVersion: 8.0.3
 dependencies:
   - condition: mariadb.enabled
     name: mariadb
